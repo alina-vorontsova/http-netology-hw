@@ -1,5 +1,6 @@
 import requests 
 
+
 # Задание 1
 
 def get_hero_with_max_int():
